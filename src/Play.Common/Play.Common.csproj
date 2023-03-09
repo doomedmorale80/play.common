@@ -3,7 +3,7 @@
   <PropertyGroup>
     <TargetFramework>net7.0</TargetFramework>
     <PackageDescription>Common libraries used by Play Economy services.</PackageDescription>
-    <Authors>Julio Casal</Authors>
+    <Authors>Sebastian Wypiór</Authors>
     <Company>.NET Microservices</Company>
   </PropertyGroup>
 
